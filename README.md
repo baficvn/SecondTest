@@ -11,3 +11,4 @@ I’m currently learning how use git
 
 
 add smth new into the file!
+trying to use stash and stash pop
