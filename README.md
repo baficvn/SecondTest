@@ -8,3 +8,6 @@ I’m currently learning how use git
 
 
 07/06/2022 Ukraine forever!
+
+
+add smth new into the file!
